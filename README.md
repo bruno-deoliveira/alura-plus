@@ -1,8 +1,3 @@
-
-
-- Página da empresa fictícia desenvolvido durante o curso "HTML5 e CSS3" da Alura.
-
-
 <h1 align="center">📽#Alura Plus</h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
