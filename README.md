@@ -27,8 +27,8 @@ Alura Plus, uma plataforma de streaming da Alura. Curso de HTML e CSS: praticand
 </div>
 
 🔖 Layout
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
-[DESSE LINK]https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=0%3A1&t=9HZ6TmyTHFottelS-0
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=0%3A1&t=9HZ6TmyTHFottelS-0). É necessário ter conta no Figma para acessá-lo.
+
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
